@@ -1,5 +1,7 @@
 # SpaceShipExample
 
+![Screenshot](img/Screenshot.png)
+
 Juego 2D de disparos hecho con [LÖVE](https://love2d.org/) como proyecto de aprendizaje.
 Derriba enemigos, acumula puntos y evita que te destruyan.
 
@@ -40,7 +42,8 @@ example/
 └── img/
     ├── galaxy.jpg    ← Fondo
     ├── spaceship.png ← Nave
-    └── enemy.png     ← Enemigo
+    ├── enemy.png     ← Enemigo
+    └── Screenshot.png
 ```
 
 ## Conceptos aplicados
